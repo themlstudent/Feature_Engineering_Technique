@@ -1,1 +1,3 @@
-# Feature Engineering Technique
+# Feature Engineering Techniques
+
+![](images/fe.png)
